@@ -17,7 +17,7 @@ This project involves the analysis and visualization of religious demographics a
 This file contains code to generate a synthetic dataset simulating a store's purchasing information. Follow these steps to reproduce the project on your local machine.
 
 ### Dataset 
-The dataset for this project was imported from a specific Github [file](https://github.com/aaronpenne/data_visualization/blob/master/religion/data/1952.xls)
+The dataset for this project was imported from a specific [Github file](https://github.com/aaronpenne/data_visualization/blob/master/religion/data/1952.xls)
 
 ### Prerequisites
 > Python installed </br>
