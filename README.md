@@ -27,8 +27,10 @@ This file contains code to generate a synthetic dataset simulating a store's pur
 * Run the following commands:
 
 ``` bash
-python -m venv venv
-source venv/bin/activate  # On Windows Powershell, use 'venv\Scripts\Activate.ps1'
+# Powershell
+python -m venv venv; ./venv/Scripts/Activate.ps1
+# macOS & Linux
+python -m venv venv; source ./venv/Scripts/activate
 ```
 
 2. Install Dependencies
@@ -38,9 +40,9 @@ source venv/bin/activate  # On Windows Powershell, use 'venv\Scripts\Activate.ps
 pip install -r requirements.txt
 ```
 
-3. Run the Jupyter Notebook called dataset_generation.ipynb
+3. Run the Jupyter Notebooks called religion_task1.ipynb, religion_task2.ipynb, religion_task3.ipynb, religion_task4.ipynb, and religion_task5.ipynb
 
-4. Notebook Sections and Outline </br>
+4. Notebooks Sections and Outline </br>
 The notebook is divided into sections which consist of: 
 * Import Libraries
 * Insert Dataset
