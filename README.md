@@ -5,6 +5,7 @@ This project involves the analysis and visualization of religious demographics a
 
 ### Table of Contents
 - [Introduction](#introduction)
+- [Dataset](#dataset)
 - [Prerequisites](#prerequisites)
 - [Steps to Reproduce](#steps-to-reproduce)
 - [Project Contributors](#project-contributors)
@@ -14,6 +15,9 @@ This project involves the analysis and visualization of religious demographics a
 ### Introduction
 
 This file contains code to generate a synthetic dataset simulating a store's purchasing information. Follow these steps to reproduce the project on your local machine.
+
+### Dataset 
+The dataset for this project was imported from a specific Github [file](https://github.com/aaronpenne/data_visualization/blob/master/religion/data/1952.xls)
 
 ### Prerequisites
 > Python installed </br>
@@ -48,8 +52,6 @@ The notebook is divided into sections which consist of:
 * Insert Dataset
 * Answering the specific task
 
-### Dataset 
-The dataset for this project was imported from a specific github [file](https://github.com/aaronpenne/data_visualization/blob/master/religion/data/1952.xls)
 
 ### Project Contributors
 
