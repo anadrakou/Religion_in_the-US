@@ -46,12 +46,10 @@ pip install -r requirements.txt
 The notebook is divided into sections which consist of: 
 * Import Libraries
 * Insert Dataset
-* Table Creation
-* Identify subgroups/classes per table (if applicable)
-* Table Noise Insertion
-* Final Dataset Creation
-* Additional Noise Insertion
-* Export results of all tables and final dataset to excel
+* Answering the specific task
+
+### Dataset 
+The dataset for this project was imported from a specific github [file](https://github.com/aaronpenne/data_visualization/blob/master/religion/data/1952.xls)
 
 ### Project Contributors
 
